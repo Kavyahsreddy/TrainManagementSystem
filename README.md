@@ -1,10 +1,10 @@
-# 🚆 Train Management System
+# Train Management System
 
 This is a simple console-based Train Management System built in Java. It allows Admins and Customers to manage trains and bookings via a command-line interface.
 
 ---
 
-## 📁 Project Structure
+# Project Structure
 
 ```
 TrainManagementSystem/
@@ -23,7 +23,7 @@ TrainManagementSystem/
 
 ---
 
-## 💻 Technologies Used
+# Technologies Used
 
 - Java (JDK 8 or above)
 - Object-Oriented Programming
@@ -31,7 +31,7 @@ TrainManagementSystem/
 
 ---
 
-## 🔧 How to Compile and Run
+# How to Compile and Run
 
 1. **Compile the project** from the `src` folder:
    ```bash
@@ -45,21 +45,21 @@ TrainManagementSystem/
 
 ---
 
-## ✅ Features
+# Features
 
-### 👨‍💼 Admin Panel:
+# Admin Panel:
 - Add a Train
 - View All Trains
 - Remove a Train
 
-### 👤 Customer Panel:
+# ustomer Panel:
 - View Available Trains
 - Book a Ticket
 - Cancel a Ticket
 
 ---
 
-## 📌 Sample Output
+# Sample Output
 
 ```
 Welcome to the Train Management System
@@ -70,13 +70,13 @@ Welcome to the Train Management System
 
 ---
 
-## 👩‍💻 Author
+# Author
 
 **Kavya Reddy**  
 BCA Graduate | Bangalore, India
 
 ---
 
-## 🌐 License
+# License
 
 This project is free and open-source for learning and educational use.
